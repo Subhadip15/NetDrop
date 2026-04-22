@@ -1,0 +1,13 @@
+# Java / Spring Boot
+fast-transfer-backend/target/
+fast-transfer-backend/*.jar
+fast-transfer-backend/.idea/
+
+# React / Node
+fast-transfer-frontend/node_modules/
+fast-transfer-frontend/dist/
+fast-transfer-frontend/.env
+
+# System
+.DS_Store
+Thumbs.db
